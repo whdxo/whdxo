@@ -22,14 +22,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=whdxo&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whdxo&theme=react-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whdxo&theme=darkhub&no-frame=true&row=1" />
-</p>
 ---
 
 ## 🚀 Main Projects
