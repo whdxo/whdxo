@@ -11,12 +11,11 @@
 
 ## 📊 GitHub Activity
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whdxo&show_icons=true&rank_icon=github)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdxo&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=whdxo)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whdxo&theme=react-dark)
+
 ---
 
 ## 🚀 Main Projects
