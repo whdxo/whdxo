@@ -12,24 +12,17 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class Developer {
-    private String name = "Yang Jong Tae";
-    private String role = "Backend Developer";
-    private String[] languages = {"Java", "JavaScript", "TypeScript", "Dart"};
-    private String currentFocus = "Building scalable backend systems";
+> **Backend Developer** specializing in **Java** and **Full-Stack Development**
+> Passionate about building scalable systems and clean architecture
 
-    public String getDailyRoutine() {
-        return "Code → Coffee → Code → Commit";
-    }
-}
-```
-
-- 🌱 Currently mastering **Java Spring Framework** and **Microservices Architecture**
-- 💼 Passionate about **Backend Development** and **System Design**
-- 🚀 Building projects with **Java**, **JavaScript**, and **Flutter**
-- 🔍 Always exploring new technologies and best practices
-- ⚡ Fun fact: I'm a morning person who loves coding at dawn 🌅
+- 🎓 **Name:** Yang Jong Tae
+- 💼 **Role:** Backend Developer | Full-Stack Engineer
+- 🌱 **Currently Learning:** Java Spring Framework, Microservices Architecture, System Design
+- 🚀 **Tech Focus:** Java, JavaScript, TypeScript, Dart/Flutter
+- 💻 **Development Environment:** macOS with IntelliJ IDEA & WebStorm
+- 🔍 **Interests:** Backend Systems, RESTful APIs, Database Optimization, Cloud Architecture
+- ⚡ **Fun Fact:** I'm a morning person who loves coding at dawn 🌅
+- 🎯 **Career Goal:** Building enterprise-level applications and contributing to impactful projects
 
 ---
 
