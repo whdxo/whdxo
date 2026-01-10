@@ -11,11 +11,25 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whdxo&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdxo&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=whdxo)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whdxo&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whdxo&show_icons=true&rank_icon=github&theme=dark" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdxo&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=whdxo&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whdxo&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=whdxo&theme=darkhub&no-frame=true&row=1" />
+</p>
 ---
 
 ## 🚀 Main Projects
