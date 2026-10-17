@@ -4,7 +4,7 @@
 
 `팀장, 풀스택`
 
-> 야구장 관람객이 경기 일정, 구장 안 매장, 매장 위치를 한곳에서 확인하는 모바일 앱
+야구장 관람객이 경기 일정, 구장 안 매장, 매장 위치를 한곳에서 확인하는 모바일 앱
 
 [![저장소 바로가기](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-whdxo/ballpang__app-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whdxo/ballpang_app)
 

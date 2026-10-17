@@ -4,7 +4,7 @@
 
 `통합 담당, 풀스택`
 
-> 설치 없이 브라우저에서 함께 코딩하고, 실행하고, AI 리뷰까지 받는 Web IDE
+설치 없이 브라우저에서 함께 코딩하고, 실행하고, AI 리뷰까지 받는 Web IDE
 
 [![저장소 바로가기](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-whdxo/web__ide__project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whdxo/web_ide_project)
 

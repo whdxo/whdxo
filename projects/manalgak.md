@@ -4,7 +4,7 @@
 
 `팀장, 백엔드`
 
-> 모두의 이동 시간이 비슷한 중간 지점과 장소를 추천하는 모바일 웹
+모두의 이동 시간이 비슷한 중간 지점과 장소를 추천하는 모바일 웹
 
 [![저장소 바로가기](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-CHOSSEANG/ManalGak--magicDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHOSSEANG/ManalGak-magicDev)
 
