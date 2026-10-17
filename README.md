@@ -99,28 +99,32 @@ SCR은 이 일을 대신 해 주는 사내 웹 서비스입니다. 하는 일은
 
 #### 화면으로 보는 SCR
 
-> 화면은 실제 서비스에 **가상 데이터**(가상 스토어, 가상 고객)를 넣어 다시 찍은 것입니다.
+> 아래 화면은 모두 **목업**입니다. 실제 서비스 화면에 가상 데이터(가상 스토어, 가상 고객, 가상 매출)를 넣어 다시 찍었고, 메뉴 영역은 가렸습니다.
 
 **① 통합 성과** — 매출, 광고비, ROAS를 날짜별, 쇼핑몰별로 한 표에서 봅니다. 엑셀로도 내려받을 수 있습니다.
 
-<p align="center"><img src="./assets/scr-dashboard.jpg" width="820" alt="SCR 통합 성과 화면"></p>
+<p align="center"><img src="./assets/scr-dashboard.jpg" width="820" alt="SCR 통합 성과 화면"><br><sub>※ 목업 화면입니다. 매출, 광고비, ROAS 등 모든 숫자는 실제 회사 데이터가 아닌 가상 데이터입니다.</sub></p>
 
 **② 자동 수집** — 쇼핑몰(왼쪽)과 광고 플랫폼(오른쪽)마다 연결 상태, 쌓인 데이터 수, 마지막 수집 시간이 보입니다. 끄고 켜거나 날짜를 지정해 다시 수집할 수도 있습니다.
 
 <p align="center">
   <img src="./assets/scr-sales-api.jpg" width="405" alt="매출 API 수집 화면">
   <img src="./assets/scr-ad-api.jpg" width="405" alt="광고비 API 수집 화면">
+  <br>
+  <sub>※ 목업 화면입니다. 스토어 이름, 주문 수, 광고 계정은 모두 가상 데이터입니다.</sub>
 </p>
 
 **③ 리셀러 탐지** — 수집이 끝나면 바로 탐지가 돌아, 의심 주문과 그 이유("첫구매 다건", "5세트 이상 재구매" 등)를 보여 줍니다. 담당자는 이 목록만 확인하면 됩니다.
 
-<p align="center"><img src="./assets/scr-reseller.jpg" width="820" alt="리셀러 탐지 화면"></p>
+<p align="center"><img src="./assets/scr-reseller.jpg" width="820" alt="리셀러 탐지 화면"><br><sub>※ 목업 화면입니다. 주문번호, 고객 이름, 탐지 건수는 모두 가상 데이터입니다.</sub></p>
 
 **④ 대조검증, 수집 현황** — 발주 직전에 주문 엑셀을 올리면 확정 리셀러와 한 번에 대조합니다(왼쪽). 새벽 자동 작업이 성공했는지 실패했는지 날짜별로 남습니다(오른쪽).
 
 <p align="center">
   <img src="./assets/scr-crosscheck.jpg" width="405" alt="대조검증 화면">
   <img src="./assets/scr-jobs.jpg" width="405" alt="수집 현황 화면">
+  <br>
+  <sub>※ 목업 화면입니다. 주문, 고객 이름, 전화번호, 주소는 모두 가상 데이터입니다.</sub>
 </p>
 
 
