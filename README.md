@@ -59,7 +59,7 @@ SCR 플랫폼을 뺀 3개는 **공개 저장소**입니다. 각 프로젝트의 
 
 엑셀 매크로로 하던 리셀러 탐지를, 매출, 광고비, 리셀러를 한 화면에서 보는 사내 운영 플랫폼으로 키웠습니다.
 
-![저장소 비공개](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%B9%84%EA%B3%B5%EA%B0%9C-6E7781?style=flat-square&logo=github&logoColor=white) 사내 서비스라 저장소는 공개할 수 없어, 쉬운 설명과 목업 화면, 만든 과정을 케이스 스터디에 정리했습니다.
+<img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%B9%84%EA%B3%B5%EA%B0%9C-6E7781?style=flat-square&logo=github&logoColor=white" alt="저장소 비공개" height="20" align="absmiddle">&nbsp; 사내 서비스라 저장소는 공개할 수 없어, 쉬운 설명과 목업 화면, 만든 과정을 케이스 스터디에 정리했습니다.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -108,7 +108,7 @@ SCR은 이 일을 대신 해 주는 사내 웹 서비스입니다. 하는 일은
 
 모두의 이동 시간이 비슷한 중간 지점과 장소를 추천하는 모바일 웹
 
-![저장소 공개](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B3%B5%EA%B0%9C-2DA44E?style=flat-square&logo=github&logoColor=white) 전체 코드는 저장소에서, 만든 과정과 문제 해결은 케이스 스터디에서 볼 수 있습니다.
+<img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B3%B5%EA%B0%9C-2DA44E?style=flat-square&logo=github&logoColor=white" alt="저장소 공개" height="20" align="absmiddle">&nbsp; 전체 코드는 저장소에서, 만든 과정과 문제 해결은 케이스 스터디에서 볼 수 있습니다.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -160,7 +160,7 @@ SCR은 이 일을 대신 해 주는 사내 웹 서비스입니다. 하는 일은
 
 설치 없이 브라우저에서 함께 코딩하고, 실행하고, AI 리뷰까지 받는 Web IDE
 
-![저장소 공개](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B3%B5%EA%B0%9C-2DA44E?style=flat-square&logo=github&logoColor=white) 전체 코드는 저장소에서, 만든 과정과 문제 해결은 케이스 스터디에서 볼 수 있습니다.
+<img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B3%B5%EA%B0%9C-2DA44E?style=flat-square&logo=github&logoColor=white" alt="저장소 공개" height="20" align="absmiddle">&nbsp; 전체 코드는 저장소에서, 만든 과정과 문제 해결은 케이스 스터디에서 볼 수 있습니다.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket_(STOMP)-010101?style=flat-square&logo=socketdotio&logoColor=white)
@@ -197,7 +197,7 @@ SCR은 이 일을 대신 해 주는 사내 웹 서비스입니다. 하는 일은
 
 야구장 관람객이 경기 일정, 구장 안 매장, 매장 위치를 한곳에서 확인하는 모바일 앱
 
-![저장소 공개](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B3%B5%EA%B0%9C-2DA44E?style=flat-square&logo=github&logoColor=white) 전체 코드는 저장소에서, 만든 과정과 문제 해결은 케이스 스터디에서 볼 수 있습니다.
+<img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B3%B5%EA%B0%9C-2DA44E?style=flat-square&logo=github&logoColor=white" alt="저장소 공개" height="20" align="absmiddle">&nbsp; 전체 코드는 저장소에서, 만든 과정과 문제 해결은 케이스 스터디에서 볼 수 있습니다.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)

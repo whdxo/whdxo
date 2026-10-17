@@ -6,7 +6,7 @@
 
 엑셀 매크로로 하던 리셀러 탐지를, 매출, 광고비, 리셀러를 한 화면에서 보는 사내 운영 플랫폼으로 키웠습니다.
 
-![저장소 비공개](https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%B9%84%EA%B3%B5%EA%B0%9C-6E7781?style=flat-square&logo=github&logoColor=white) 사내 서비스라 저장소는 공개하지 않습니다. 화면은 모두 가상 데이터를 넣은 목업입니다.
+<img src="https://img.shields.io/badge/%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%B9%84%EA%B3%B5%EA%B0%9C-6E7781?style=flat-square&logo=github&logoColor=white" alt="저장소 비공개" height="20" align="absmiddle">&nbsp; 사내 서비스라 저장소는 공개하지 않습니다. 화면은 모두 가상 데이터를 넣은 목업입니다.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
